@@ -22,11 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+<div class="markdown prose w-full break-words dark:prose-invert light"></p><ol><li><p><strong>Server Requirements</strong>:</p><ul><li>Linux, Windows, or macOS (Linux preferred for production).</li><li>Web Server: Apache 2.4+ or Nginx.</li></ul></li><li><p><strong>PHP Requirements</strong>:</p><ul><li>PHP 7.4 to 8.0 (not compatible with PHP 8.1 or later).</li><li>Required extensions:<ul><li><code>mysqli</code></li><li><code>gd</code></li><li><code>gettext</code></li><li><code>imap</code></li><li><code>mbstring</code></li><li><code>xml</code></li><li><code>json</code></li><li><code>intl</code></li><li><code>phar</code></li><li><code>fileinfo</code></li></ul></li></ul></li><li><p><strong>Database</strong>:</p><ul><li>MySQL 5.5+ or MariaDB 10.0+.</li><li>Ability to create and manage a database.</li></ul></li><li><p><strong>Optional (but recommended)</strong>:</p><ul><li>SMTP server for email notifications.</li></ul></li><li><p><strong>Download osTicket</strong>:</p><ul><li>Get the latest osTicket version from <a rel="noopener" target="_new" style="--streaming-animation-state: var(--batch-play-state-1); --animation-rate: var(--batch-play-rate-1);"><span style="--animation-count: 3; --streaming-animation-state: var(--batch-play-state-2);">osTicket's</span><span style="--animation-count: 4; --streaming-animation-state: var(--batch-play-state-2);"> website</span></a>.</li></ul></li><li><p><strong>Recommended Hardware</strong>:</p><ul><li>CPU: 1 GHz+</li><li>RAM: 2 GB minimum</li><li>Storage: 5 GB minimum</li></ul></li><li><p><strong>Installation Steps</strong>:</p><ul><li>Upload osTicket files to your server.</li><li>Create a MySQL or MariaDB database and user.</li><li>Complete web-based setup via your server’s URL.</li><li>Configure email, ticket settings, and user permissions in the admin panel.</li></ul></li></ol><p>
+
+
+
+
+
 
 <h2>Installation Steps</h2>
 
