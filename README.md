@@ -50,7 +50,7 @@ Step #1: Upload osTicket files to your server. If you're using a tool like <stro
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step #2: Create a MySQL or MariaDB Database and User. In phpMyAdmin, after logging in, select "Databases" &gt; "Create Database," where you’ll enter the database name for osTicket. You should then see an interface for creating a user with specific permissions for the new database.
 </p>
 <br />
 
