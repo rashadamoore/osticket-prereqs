@@ -72,7 +72,7 @@ Step #3: Start osTicket web-based setup. Navigate to your server’s URL (e.g., 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step #4: Configuration in the osTicket Admin Panel. After logging into the admin panel, you’ll see a dashboard with options for configuring <strong>Email Settings</strong>, <strong>Ticket Settings</strong>, <strong>Departments</strong>, <strong>Teams</strong>, and more. You can click on each option to configure details like email piping for ticket replies, SLA policies, and user permissions.
 </p>
 <br />
 
