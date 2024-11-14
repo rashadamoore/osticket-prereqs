@@ -61,7 +61,7 @@ Step #2: Create a MySQL or MariaDB Database and User. In phpMyAdmin, after loggi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step #3: Start osTicket web-based setup. Navigate to your server’s URL (e.g., <code>http://yourdomain.com/upload/</code>). You’ll see the <strong>osTicket Installer</strong> page with a welcome message, listing system requirements and an option to continue with the installation if all prerequisites are met. If any requirements are missing (e.g., PHP extensions), they will appear in red with instructions on fixing them.
 </p>
 <br />
 
